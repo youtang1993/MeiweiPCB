@@ -13,3 +13,8 @@ The file structure is introduced as follows:
     - mask: the pixel-wise mask annotations
     - annotations_txt: the bounding box annotations
     - annotations_coco: divide the training set, validation set and test set according to the commonly used coco format
+
+
+
+
+![vis](demo.png)
