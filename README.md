@@ -19,6 +19,11 @@ It can be seen that the dataset can be used for various different vision tasks.
 Enjoy it! :tw-1f495: 
 
 
+Other similar Surface defect datasets:
+1. Magnetic-tile-defect-datasets, https://github.com/abin24/Magnetic-tile-defect-datasets. or https://gitee.com/kaanwang/Magnetic-tile-defect-datasets.
+2. NEU-surface-defect-database, http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
+
+
 
 
 ![vis](demo.png)
