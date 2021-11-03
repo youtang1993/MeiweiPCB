@@ -2,12 +2,12 @@
 
 #### Description
 The PCB surface defect dataset is collected to solve the problem of automatic recognition of printed circuit board. 
-A common strategy has been used to increase the diversity of the dataset, which randomly cut out patches with a resolution of 220x220 from the raw images captured by an industrial line scan camera. 
+A common strategy has been used to increase the diversity of the dataset, which is to randomly cut out patches with a resolution of 220x220 from the raw images captured by an industrial line scan camera. 
 Most of these defect images contain a series of noise, e.g., the diversity of defect shape, complexity of texture, and the change of illumination intensity.
 
 *Note: The complete dataset will be released later.*
 
-The file structure is introduced as follows:
+The structure of the dataset is introduced as follows:
 
 - MeiweiPCB
     - images: the collected defect/NG images
