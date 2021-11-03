@@ -16,7 +16,7 @@ The file structure is introduced as follows:
     - annotations_coco: divide the training set, validation set and test set according to the commonly used coco format
 
 It can be seen that the dataset can be used for various different vision tasks. 
-Enjoy it! :tw-1f495: 
+Enjoy it!😊
 
 
 Other similar Surface defect datasets:
