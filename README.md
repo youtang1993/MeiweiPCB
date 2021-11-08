@@ -16,7 +16,7 @@ The structure of the dataset is introduced as follows:
     - annotations_txt: the bounding box annotations
     - annotations_coco: divide the training set, validation set and test set according to the commonly used coco format
 
-It can be seen that the dataset can be used for various different vision tasks. 
+It can be seen that the dataset can be used for a variety of different vision tasks. 
 Enjoy it!😊
 
 
