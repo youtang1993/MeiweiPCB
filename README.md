@@ -1,5 +1,8 @@
 # MeiweiPCB Surface Defect Dataset
 
+### What's New
+To facilitate easy understanding and replication of [BTDNet](https://github.com/youtang1993/MeiweiPCB/blob/master/BTDNet.zip), we have added an implementation based on the mmsegmentation framework.
+
 #### Description
 The PCB surface defect dataset is collected to solve the problem of automatic recognition of printed circuit board. 
 A common strategy has been used to increase the diversity of the dataset, which is to randomly cut out patches with a resolution of 220x220 from the raw images captured by an industrial line scan camera. 
